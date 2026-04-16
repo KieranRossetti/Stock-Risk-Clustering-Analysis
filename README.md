@@ -36,6 +36,8 @@ This project analyses S&P 500 stocks by clustering them based on risk and return
 - yfinance
 - matplotlib
 
+**The full implementation can be found in the notebook included in this repository.**
+
 ## Author
 Kieran Rossetti
 Data Analytics & Business Intelligence Portfolio Project
