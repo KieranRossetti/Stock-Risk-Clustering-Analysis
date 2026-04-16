@@ -24,6 +24,20 @@ This project analyses S&P 500 stocks by clustering them based on risk and return
   - High risk stocks (aggressive)
 - Both clustering methods produced consistent segmentation
 
+## Key Visualisations
+
+### Beta vs Volatility
+![Beta vs Volatility](Graphs/Beta%20vs%20Volatility.png)
+
+### Risk Return Trade Off
+![Risk Return](Graphs/Average%20Return%20vs%20Volatility.png)
+
+### Dendrogram
+![Dendrogram](Graphs/Dendrogram%20for%20Agglomerative%20Clustering.png)
+
+### K means Cluster Profiles
+![KMeans](Graphs/K-Means%20Cluster%20Profiles.png)
+
 ## Business Insight
 - Supports portfolio diversification strategies
 - Highlights the trade off between risk and return
